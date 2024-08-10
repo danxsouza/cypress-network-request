@@ -1,0 +1,25 @@
+{
+  "name": "cypress-network-request",
+  "version": "1.0.0",
+  "description": "Testing Network Requests",
+  "main": "index.js",
+  "scripts": {
+    "cypres:open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danxsouza/cypress-network-request.git"
+  },
+  "author": "Danilo Batista de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danxsouza/cypress-network-request/issues"
+  },
+  "homepage": "https://github.com/danxsouza/cypress-network-request#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  },
+  "dependencies": {
+    "npx": "^10.2.2"
+  }
+}
