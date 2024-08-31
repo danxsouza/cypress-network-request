@@ -50,7 +50,4 @@ describe('Network Request', () => {
 
         cy.get('.network-put-comment').should('contain', message);
     });
-
-
-
 });
